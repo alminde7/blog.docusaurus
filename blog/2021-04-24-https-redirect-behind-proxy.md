@@ -2,7 +2,7 @@
 title: Force HTTPS redirection behind a proxy
 author: Andreas Svansø Alminde
 # author_title: Docusaurus Core Team
-author_url: https://github.com/alminde7
+author_url: https://github.alminde.io
 author_image_url: https://avatars.githubusercontent.com/u/15948257?s=400&v=4
 tags: [tech, dotnet, c#]
 ---
